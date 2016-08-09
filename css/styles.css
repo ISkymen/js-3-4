@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.page-title {
+    text-align: center;
+}
+
+ol li {
+    font-size: 18px;
+}
+
+.question {
+    font-size: 20px;
+}
+
+.answer__list {
+    padding-left: 0;
+}
+
+.answer__item {
+    list-style: none;
+    padding: 2px 0;
+}
+
+.button {
+    width: 300px;
+    height: 80px;
+    background: lightblue;
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 2px;
+    box-shadow: 0 0 5px gray;
+}
+
+.button:hover {
+    box-shadow: none;
+    border: 1px solid;
+}
+
+
+
